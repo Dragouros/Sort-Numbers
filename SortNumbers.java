@@ -1,6 +1,6 @@
 package com.Luigi;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public class SortNumbers {
 
