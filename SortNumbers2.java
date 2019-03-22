@@ -16,7 +16,6 @@ public class SortNumbers2 {
 			}
 		}
 		return Smallest;
-//		Numbers.remove(OrderList.get(OrderList.size()-1));
 	}
 	
 	public static void main(String[] args) {
